@@ -13,7 +13,6 @@ Dll
 
 Speed wuss, untuk ApN ori
 
-Password kontak admin
 Join grub
 
 
